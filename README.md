@@ -1,2 +1,4 @@
 # 2017
-GitHub Pages
+Greeting card mini-site for 2017.
+
+https://ggacard.github.io/2017/
